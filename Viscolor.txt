@@ -1,0 +1,24 @@
+0,0,0		// Background
+123,72,0	// Dots
+205,123,0	// Analyzer 16 (Top)
+203,115,0	// Analyzer 15
+201,108,0	// Analyzer 14
+199,100,0	// Analyzer 13
+197,93,0	// Analyzer 12
+195,85,0	// Analyzer 11
+193,78,0	// Analyzer 10
+191,70,0	// Analyzer 9
+189,63,0	// Analyzer 8
+187,55,0	// Analyzer 7
+187,48,0	// Analyzer 6
+187,40,0	// Analyzer 5
+186,33,0	// Analyzer 4
+186,25,0	// Analyzer 3
+186,18,0	// Analyzer 2
+186,10,0	// Analyzer 1 (Bottom)
+186,10,0	// Scope 1 (Min)
+187,48,0	// Scope 2
+193,78,0	// Scope 3
+199,100,0	// Scope 4
+205,123,0	// Scope 5 (Max)
+200,150,0	// Analyser Peaks
