@@ -1,10 +1,8 @@
-Doritos: NachoAmp
+Alex G
 
-A Winamp Skin by DMEnduro
+A Winamp Skin by Neon
 
-Dedicated to anybody who loves Doritos as much as me.
-Expect a new version of this soon.
-I just rediscovered my own skins archive disk, remembering my favorite one, it is lacking something though.
-
-Email: DMEnduro@yahoo.com.au
+ALEX G RAAA 
+Link to temp zip for songs: https://cdn.saahild.com/u/Z0Ny2g.zip
+Email:neon@saahild.com
 ICQ: 36590154

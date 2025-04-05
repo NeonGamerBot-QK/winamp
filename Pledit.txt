@@ -1,8 +1,8 @@
 [Text]
-Normal=#FF9900
-Current=#CB0210
-NormalBG=#000000
-SelectedBG=#8D5B05
-MbFG=#FF9900
-MbBG=#000000
+Normal=#cdd6f4
+Current=#cba6f7
+NormalBG=#1e1e2e
+SelectedBG=#45475a
+MbFG=#89b4fa
+MbBG=#1e1e2e
 Font=Trebuchet MS Italic
